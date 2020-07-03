@@ -1,4 +1,4 @@
-package Java_Questions;
+package Java_Collections;
 
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -24,10 +24,12 @@ public class ArrayListAndIterator {
         arr.add("QA");
         arr.add(true);
 
+        System.out.println(" printing array1 " + arr);
+
         System.out.println(" size of array is " + arr.size() + " And value at index2 is  :  " + arr.get(2));
 
         for (int i = 0; i < arr.size(); i++) {
-            System.out.println(" Finding out all the values of arraylist : " + arr.get(i));
+            System.out.println(" Values of arrayList at index  " + i + " is " + arr.get(i));
         }
 
         //Generics - Means specific data type
@@ -36,8 +38,11 @@ public class ArrayListAndIterator {
         p.add(1);
         p.add(22);
 
+        System.out.println(" printing array2 " + p);
+        System.out.println(" Integer Array ");
+
         for (int i = 0; i < p.size(); i++) {
-            System.out.println(" Integer Array " + p.get(i));
+            System.out.println(p.get(i));
 
         }
 
@@ -49,18 +54,20 @@ public class ArrayListAndIterator {
         emp.add(e1);
         emp.add(e2);
         emp.add(e3);
-
+        System.out.println(" printing array3 " + emp);
         Iterator<Employee> employeeIterator = emp.iterator();
+        System.out.println(
+            " Printing values of employee class using Iterator ");
 
         while (employeeIterator.hasNext()) {
             Employee employee = employeeIterator.next();
             System.out.println(
-                " Printing values of employee class using Iterator " + employee.dept + " " + employee.age + " " + employee.name);
+                employee.dept + " " + employee.age + " " + employee.name);
         }
 
         // addall
 
-        ArrayList<String> s1= new ArrayList<String>();
+        ArrayList<String> s1 = new ArrayList<String>();
         s1.add("Chemistry");
         s1.add("Physics");
         s1.add("Maths");
@@ -71,12 +78,30 @@ public class ArrayListAndIterator {
 
 
         s2.addAll(s1);
+        System.out.println(" printing array4 " + s2);
 
-        for(int i=0;i<s2.size();i++)
-        {
+        System.out.println(" array list using add all ");
 
-            System.out.println(" array list using add all " + s2.get(i));
+        for (int i = 0; i < s2.size(); i++) {
+
+            System.out.println(s2.get(i));
         }
+
+
+        ArrayList<String> s3 = new ArrayList<String>();
+        s3.add("Chemistry");
+        s3.add("Physics");
+        s3.add("Maths");
+
+        ArrayList<String> s4 = new ArrayList<String>();
+        s4.add("TheoryOfAutomata");
+        s4.add("Data Structures");
+        s4.add("Maths");
+
+        s3.retainAll(s4);
+
+        System.out.println(" printing only common value from both the list " + s3);
+
 
     }
 }

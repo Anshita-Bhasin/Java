@@ -1,4 +1,4 @@
-package Java_Questions;
+package Java_Collections;
 
 public class Employee {
 
