@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b39d262e-02e4-4018-baec-4f55bdd20def" name="Default Changelist" comment="" />
+    <list default="true" id="b39d262e-02e4-4018-baec-4f55bdd20def" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/ArrayListAndIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/MissingNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/WrapperClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/ASCIICharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/ASCIICharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/AddTwoIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/AddTwoIntegers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/Armstrong.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/Armstrong.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/CharacterIsAlphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/CharacterIsAlphabet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/DigitCountInNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/DigitCountInNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/EvenAndOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/EvenAndOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/Factorial.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/FactorsOfNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/FactorsOfNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/FibonacciSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/FibonacciSeries.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/FloatingMultiplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/FloatingMultiplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/LargestAmongThreeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/LargestAmongThreeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/LeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/LeapYear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/MultiplicationTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/MultiplicationTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/NaturalNumbersSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/NaturalNumbersSum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/Palindrome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/PositiveNegativeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/PositiveNegativeNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/PowerConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/PowerConcept.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrimeNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrimeNumberInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrimeNumberInterval.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrintChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrintChars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrintInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrintInteger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/QuotientAndRemainder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/QuotientAndRemainder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/ReverseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/ReverseNumber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/SwapNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/SwapNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/VowelsAndConsonants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/VowelsAndConsonants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Java_Interview_Questions.kotlin_module" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +49,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1dinxf0PIrFft0uje76f4KCVy9X" />
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Selenium4" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -33,9 +72,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReverseString">
-    <configuration name="Armstrong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.Armstrong" />
+  <component name="RunManager" selected="Application.ArrayListAndIterator">
+    <configuration name="ArrayListAndIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.ArrayListAndIterator" />
       <module name="Java_Interview_Questions" />
       <extension name="coverage">
         <pattern>
@@ -47,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.Calculator" />
+    <configuration name="MissingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.MissingNumbers" />
       <module name="Java_Interview_Questions" />
       <extension name="coverage">
         <pattern>
@@ -60,21 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorsOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.FactorsOfNumber" />
-      <module name="Java_Interview_Questions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrimeNumberInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.PrimeNumberInterval" />
+    <configuration name="RemoveJunkChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.RemoveJunkChars" />
       <module name="Java_Interview_Questions" />
       <extension name="coverage">
         <pattern>
@@ -99,13 +125,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WrapperClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.WrapperClass" />
+      <module name="Java_Interview_Questions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayListAndIterator" />
+        <item itemvalue="Application.WrapperClass" />
+        <item itemvalue="Application.RemoveJunkChars" />
+        <item itemvalue="Application.MissingNumbers" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.FactorsOfNumber" />
-        <item itemvalue="Application.Armstrong" />
-        <item itemvalue="Application.PrimeNumberInterval" />
       </list>
     </recent_temporary>
   </component>
@@ -120,6 +159,31 @@
       <option name="presentableId" value="Default" />
       <updated>1592917028639</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added 2 more programs for removing junk values from string and reversing a string.">
+      <created>1593117818709</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593117818709</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added 2 more programs for removing junk values from string and reversing a string." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 2 more programs for removing junk values from string and reversing a string." />
   </component>
 </project>
