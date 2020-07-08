@@ -6,10 +6,10 @@ public class Hash_Table {
 
       /*  Stores in key, value pair
        It is synchronised unlike hashmap
-            dfd
-            dfdddf
-                dfgdf
-                dfg*/
+            Performance is slow as compared to HashMap
+            Doesn't allow anything that is null
+            Enumerator is used to iterate the values
+            */
 
     }
 

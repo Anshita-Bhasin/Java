@@ -14,6 +14,9 @@ public class Hash_Map {
        Single Null Key, Multiple Null Values
        Stores value in key, value pair
        It contains unique values
+       High Performance
+
+       Iterator is used to iterate the values
 
        There is on problem of concurent modification exception  - fail fast (Any thread modifies the structure
        at the same time which updates the map)
