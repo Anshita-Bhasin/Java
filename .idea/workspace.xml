@@ -20,42 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b39d262e-02e4-4018-baec-4f55bdd20def" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/DuplicateElementsInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/ASCIICharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/ASCIICharacter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/AddTwoIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/AddTwoIntegers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/Armstrong.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/Armstrong.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/Calculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/CharacterIsAlphabet.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/CharacterIsAlphabet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/DigitCountInNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/DigitCountInNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/EvenAndOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/EvenAndOdd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/FactorsOfNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/FactorsOfNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/FibonacciSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/FibonacciSeries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/FloatingMultiplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/FloatingMultiplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/LargestAmongThreeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/LargestAmongThreeNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/LeapYear.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/LeapYear.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/MissingNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/MissingNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/MultiplicationTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/MultiplicationTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/NaturalNumbersSum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/NaturalNumbersSum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/PositiveNegativeNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/PositiveNegativeNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/PowerConcept.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/PowerConcept.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrimeNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrimeNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrimeNumberInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrimeNumberInterval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrintChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrintChars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrintInteger.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/PrintInteger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/QuotientAndRemainder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/QuotientAndRemainder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/RemoveJunkChars.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/RemoveJunkChars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/ReverseNumber.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/ReverseNumber.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/ReverseString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/SwapNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/SwapNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/VowelsAndConsonants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/VowelsAndConsonants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/WrapperClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/WrapperClass.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +154,7 @@
       <updated>1592917028639</updated>
       <workItem from="1594492586934" duration="610000" />
       <workItem from="1594559012519" duration="11000" />
-      <workItem from="1594890991449" duration="2826000" />
+      <workItem from="1594890991449" duration="6314000" />
     </task>
     <task id="LOCAL-00001" summary="Added 2 more programs for removing junk values from string and reversing a string.">
       <created>1593117818709</created>
@@ -245,61 +214,56 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594493147282" />
-    <state width="1323" height="180" key="GridCell.Tab.0.bottom" timestamp="1594897843803">
+    <state width="1323" height="147" key="GridCell.Tab.0.bottom" timestamp="1594985657249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594897843803" />
-    <state width="1323" height="180" key="GridCell.Tab.0.center" timestamp="1594897843803">
+    <state width="1323" height="147" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594985657249" />
+    <state width="1323" height="147" key="GridCell.Tab.0.center" timestamp="1594985657249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594897843803" />
-    <state width="1323" height="180" key="GridCell.Tab.0.left" timestamp="1594897843802">
+    <state width="1323" height="147" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594985657249" />
+    <state width="1323" height="147" key="GridCell.Tab.0.left" timestamp="1594985657248">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594897843802" />
-    <state width="1323" height="180" key="GridCell.Tab.0.right" timestamp="1594897843803">
+    <state width="1323" height="147" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594985657248" />
+    <state width="1323" height="147" key="GridCell.Tab.0.right" timestamp="1594985657249">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594897843803" />
-    <state width="1323" height="180" key="GridCell.Tab.1.bottom" timestamp="1594897843803">
+    <state width="1323" height="147" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594985657249" />
+    <state width="1323" height="180" key="GridCell.Tab.1.bottom" timestamp="1594985486895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594897843803" />
-    <state width="1323" height="180" key="GridCell.Tab.1.center" timestamp="1594897843803">
+    <state width="1323" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594985486895" />
+    <state width="1323" height="180" key="GridCell.Tab.1.center" timestamp="1594985486895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1594897843803" />
-    <state width="1323" height="180" key="GridCell.Tab.1.left" timestamp="1594897843803">
+    <state width="1323" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1594985486895" />
+    <state width="1323" height="180" key="GridCell.Tab.1.left" timestamp="1594985486895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1594897843803" />
-    <state width="1323" height="180" key="GridCell.Tab.1.right" timestamp="1594897843803">
+    <state width="1323" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1594985486895" />
+    <state width="1323" height="180" key="GridCell.Tab.1.right" timestamp="1594985486895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1594897843803" />
+    <state width="1323" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1594985486895" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInArray.java</url>
-          <line>13</line>
+          <line>58</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInArray.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="3" />
+          <line>8</line>
+          <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInArray.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInArray.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="5" />
+          <line>11</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
