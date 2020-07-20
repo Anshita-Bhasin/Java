@@ -18,7 +18,7 @@ public class Hash_Map {
 
        Iterator is used to iterate the values
 
-       There is on problem of concurent modification exception  - fail fast (Any thread modifies the structure
+       There is one problem of concurent modification exception  - fail fast (Any thread modifies the structure
        at the same time which updates the map)
        which occur because as hashmap is non sync call, so at the same time, 2 threads can access 1 value
        and let's say, 1st thread removes the value and 2nd thread is reading that value. so, in that

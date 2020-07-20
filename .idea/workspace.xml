@@ -20,14 +20,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b39d262e-02e4-4018-baec-4f55bdd20def" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/StackUsingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructures/StackUsingLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/CountDigitsInInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/FactorsOfArrayElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/GCDOfTwoNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/CountVowelsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/DuplicateElementsInIntArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/DuplicateElementsInStringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInInputArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/ReverseVowelsInString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/MissingNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/MissingNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/MissingNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/MissingNumbers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Collections/Hash_Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Collections/Hash_Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/DuplicateElementsInArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DataStructures/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/LargestNumberInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/LargestNumberInArray.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,12 +67,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Java_Questions" />
       <recent name="Java_Collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StackUsingArray">
-    <configuration name="CountDigitsInInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.CountDigitsInInteger" />
+  <component name="RunManager" selected="Application.DuplicateElementsInIntArray">
+    <configuration name="CountVowelsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.CountVowelsInString" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorsOfArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.FactorsOfArrayElements" />
+    <configuration name="DuplicateElementsInIntArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.DuplicateElementsInIntArray" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCDOfTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.GCDOfTwoNumbers" />
+    <configuration name="DuplicateElementsInStringArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.DuplicateElementsInStringArray" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -107,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.MissingNumbers" />
+    <configuration name="LargestNumberInInputArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.LargestNumberInInputArray" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -120,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackUsingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DataStructures.StackUsingArray" />
+    <configuration name="ReverseVowelsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.ReverseVowelsInString" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="DataStructures.*" />
+          <option name="PATTERN" value="Java_Questions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StackUsingArray" />
-        <item itemvalue="Application.MissingNumbers" />
-        <item itemvalue="Application.GCDOfTwoNumbers" />
-        <item itemvalue="Application.FactorsOfArrayElements" />
-        <item itemvalue="Application.CountDigitsInInteger" />
+        <item itemvalue="Application.DuplicateElementsInIntArray" />
+        <item itemvalue="Application.DuplicateElementsInStringArray" />
+        <item itemvalue="Application.CountVowelsInString" />
+        <item itemvalue="Application.ReverseVowelsInString" />
+        <item itemvalue="Application.LargestNumberInInputArray" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +159,7 @@
       <updated>1592917028639</updated>
       <workItem from="1594492586934" duration="610000" />
       <workItem from="1594559012519" duration="11000" />
-      <workItem from="1594890991449" duration="21184000" />
+      <workItem from="1594890991449" duration="32024000" />
     </task>
     <task id="LOCAL-00001" summary="Added 2 more programs for removing junk values from string and reversing a string.">
       <created>1593117818709</created>
@@ -215,22 +219,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594493147282" />
-    <state width="1323" height="175" key="GridCell.Tab.0.bottom" timestamp="1595026511852">
+    <state width="1323" height="170" key="GridCell.Tab.0.bottom" timestamp="1595113386397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="175" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595026511852" />
-    <state width="1323" height="175" key="GridCell.Tab.0.center" timestamp="1595026511851">
+    <state width="1323" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595113386397" />
+    <state width="1323" height="170" key="GridCell.Tab.0.center" timestamp="1595113386397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="175" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595026511851" />
-    <state width="1323" height="175" key="GridCell.Tab.0.left" timestamp="1595026511851">
+    <state width="1323" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595113386397" />
+    <state width="1323" height="170" key="GridCell.Tab.0.left" timestamp="1595113386397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="175" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595026511851" />
-    <state width="1323" height="175" key="GridCell.Tab.0.right" timestamp="1595026511851">
+    <state width="1323" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595113386397" />
+    <state width="1323" height="170" key="GridCell.Tab.0.right" timestamp="1595113386397">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="175" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595026511851" />
+    <state width="1323" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595113386397" />
     <state width="1323" height="180" key="GridCell.Tab.1.bottom" timestamp="1594985486895">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -253,7 +257,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInArray.java</url>
-          <line>58</line>
+          <line>30</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -263,7 +267,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInArray.java</url>
-          <line>11</line>
+          <line>9</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
