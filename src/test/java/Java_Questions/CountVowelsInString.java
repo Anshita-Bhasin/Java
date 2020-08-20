@@ -19,7 +19,11 @@ public class CountVowelsInString {
                 count++;
             }
         }
-        System.out.println(" number of vowels in string is " + count);
+        System.out.println(" number of vowels in string is " + count
+
+
+
+        );
 
     }
 

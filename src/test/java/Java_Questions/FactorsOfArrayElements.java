@@ -11,9 +11,9 @@ public class FactorsOfArrayElements {
 
        int a[]=new int[x];
 
-       for(int i =1;i<s.nextInt();i++)
+       for(int i =1;i<x;i++)
        {
-           a[i]=s.nextInt();
+           a[i]=x;
            if(a[i]%i==0)
            {
                System.out.println(" factor " + i);

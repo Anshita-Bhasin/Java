@@ -20,17 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b39d262e-02e4-4018-baec-4f55bdd20def" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/CountVowelsInString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/DuplicateElementsInIntArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/DuplicateElementsInStringArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInInputArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/ReverseVowelsInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/RS.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Collections/Hash_Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Collections/Hash_Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/DuplicateElementsInArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/DataStructures/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/LargestNumberInArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/LargestNumberInArray.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/CountVowelsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/CountVowelsInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/FactorsOfArrayElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/FactorsOfArrayElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/ReverseVowelsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/ReverseVowelsInString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/CountVowelsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/CountVowelsInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/FactorsOfArrayElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/FactorsOfArrayElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/ReverseVowelsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/ReverseVowelsInString.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Selenium4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Selenium---UI-Automation" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -71,9 +68,9 @@
       <recent name="Java_Collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DuplicateElementsInIntArray">
-    <configuration name="CountVowelsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.CountVowelsInString" />
+  <component name="RunManager" selected="Application.RS">
+    <configuration name="CountDigitsInInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.CountDigitsInInteger" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestNumberInInputArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.LargestNumberInInputArray" />
+    <configuration name="RS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.RS" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -139,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RS" />
+        <item itemvalue="Application.CountDigitsInInteger" />
+        <item itemvalue="Application.ReverseVowelsInString" />
         <item itemvalue="Application.DuplicateElementsInIntArray" />
         <item itemvalue="Application.DuplicateElementsInStringArray" />
-        <item itemvalue="Application.CountVowelsInString" />
-        <item itemvalue="Application.ReverseVowelsInString" />
-        <item itemvalue="Application.LargestNumberInInputArray" />
       </list>
     </recent_temporary>
   </component>
@@ -160,6 +157,11 @@
       <workItem from="1594492586934" duration="610000" />
       <workItem from="1594559012519" duration="11000" />
       <workItem from="1594890991449" duration="32024000" />
+      <workItem from="1595265090915" duration="1271000" />
+      <workItem from="1595267393218" duration="97000" />
+      <workItem from="1595617643831" duration="3721000" />
+      <workItem from="1596198196872" duration="2232000" />
+      <workItem from="1597235833229" duration="600000" />
     </task>
     <task id="LOCAL-00001" summary="Added 2 more programs for removing junk values from string and reversing a string.">
       <created>1593117818709</created>
@@ -215,42 +217,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="438" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1594893160597" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1594493147282">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595267443091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1594493147282" />
-    <state width="1323" height="170" key="GridCell.Tab.0.bottom" timestamp="1595113386397">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595267443091" />
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom" timestamp="1596212996091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595113386397" />
-    <state width="1323" height="170" key="GridCell.Tab.0.center" timestamp="1595113386397">
+    <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596212996091" />
+    <state width="1323" height="570" key="GridCell.Tab.0.center" timestamp="1596212996091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595113386397" />
-    <state width="1323" height="170" key="GridCell.Tab.0.left" timestamp="1595113386397">
+    <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596212996091" />
+    <state width="1323" height="570" key="GridCell.Tab.0.left" timestamp="1596212996091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595113386397" />
-    <state width="1323" height="170" key="GridCell.Tab.0.right" timestamp="1595113386397">
+    <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596212996091" />
+    <state width="1323" height="570" key="GridCell.Tab.0.right" timestamp="1596212996091">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595113386397" />
-    <state width="1323" height="180" key="GridCell.Tab.1.bottom" timestamp="1594985486895">
+    <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596212996091" />
+    <state width="1323" height="180" key="GridCell.Tab.1.bottom" timestamp="1596212528751">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594985486895" />
-    <state width="1323" height="180" key="GridCell.Tab.1.center" timestamp="1594985486895">
+    <state width="1323" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596212528751" />
+    <state width="1323" height="180" key="GridCell.Tab.1.center" timestamp="1596212528750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1594985486895" />
-    <state width="1323" height="180" key="GridCell.Tab.1.left" timestamp="1594985486895">
+    <state width="1323" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596212528750" />
+    <state width="1323" height="180" key="GridCell.Tab.1.left" timestamp="1596212528750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1594985486895" />
-    <state width="1323" height="180" key="GridCell.Tab.1.right" timestamp="1594985486895">
+    <state width="1323" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596212528750" />
+    <state width="1323" height="180" key="GridCell.Tab.1.right" timestamp="1596212528750">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1594985486895" />
+    <state width="1323" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596212528750" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1595267406455">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595267406455" />
+    <state x="65" y="0" key="new project wizard" timestamp="1595267488600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595267488600" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -269,6 +279,11 @@
           <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/LargestNumberInArray.java</url>
           <line>9</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/RS.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
