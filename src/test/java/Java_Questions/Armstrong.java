@@ -16,4 +16,6 @@ public class Armstrong {
         }
         System.out.println(number + " is "+ (number==rev?" an armstrong number " : " not an armstrong number"));
     }
+
+
 }

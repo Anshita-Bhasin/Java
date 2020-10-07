@@ -20,14 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b39d262e-02e4-4018-baec-4f55bdd20def" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/RS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/Akshu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/SecondMaximum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/CountVowelsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/CountVowelsInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/FactorsOfArrayElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/FactorsOfArrayElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/ReverseVowelsInString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/ReverseVowelsInString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/CountVowelsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/CountVowelsInString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/FactorsOfArrayElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/FactorsOfArrayElements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/ReverseVowelsInString.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/ReverseVowelsInString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Java.kotlin_module" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Selenium---UI-Automation" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -68,35 +65,22 @@
       <recent name="Java_Collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RS">
+  <component name="RunManager" selected="Application.SecondMaximum">
+    <configuration name="Akshu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.Akshu" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CountDigitsInInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Java_Questions.CountDigitsInInteger" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DuplicateElementsInIntArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.DuplicateElementsInIntArray" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DuplicateElementsInStringArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.DuplicateElementsInStringArray" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -134,13 +118,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SecondMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.SecondMaximum" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SecondMaximum" />
+        <item itemvalue="Application.Akshu" />
         <item itemvalue="Application.RS" />
         <item itemvalue="Application.CountDigitsInInteger" />
         <item itemvalue="Application.ReverseVowelsInString" />
-        <item itemvalue="Application.DuplicateElementsInIntArray" />
-        <item itemvalue="Application.DuplicateElementsInStringArray" />
       </list>
     </recent_temporary>
   </component>
@@ -221,38 +218,46 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595267443091" />
-    <state width="1323" height="570" key="GridCell.Tab.0.bottom" timestamp="1596212996091">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom" timestamp="1602105225650">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596212996091" />
-    <state width="1323" height="570" key="GridCell.Tab.0.center" timestamp="1596212996091">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602105225650" />
+    <state width="1493" height="192" key="GridCell.Tab.0.center" timestamp="1602105225650">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596212996091" />
-    <state width="1323" height="570" key="GridCell.Tab.0.left" timestamp="1596212996091">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602105225650" />
+    <state width="1493" height="192" key="GridCell.Tab.0.left" timestamp="1602105225650">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596212996091" />
-    <state width="1323" height="570" key="GridCell.Tab.0.right" timestamp="1596212996091">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602105225650" />
+    <state width="1493" height="192" key="GridCell.Tab.0.right" timestamp="1602105225650">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596212996091" />
-    <state width="1323" height="180" key="GridCell.Tab.1.bottom" timestamp="1596212528751">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602105225650" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1602086293209">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1323" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596212528751" />
-    <state width="1323" height="180" key="GridCell.Tab.1.center" timestamp="1596212528750">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602086293209" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1602086293209">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1323" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596212528750" />
-    <state width="1323" height="180" key="GridCell.Tab.1.left" timestamp="1596212528750">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602086293209" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1602086293209">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1323" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596212528750" />
-    <state width="1323" height="180" key="GridCell.Tab.1.right" timestamp="1596212528750">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602086293209" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1602086293209">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1323" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596212528750" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602086293209" />
     <state x="184" y="8" key="SettingsEditor" timestamp="1595267406455">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -261,6 +266,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595267488600" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602101005470">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602101005470" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -284,6 +293,56 @@
           <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/RS.java</url>
           <line>10</line>
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/Akshu.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/Akshu.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/Akshu.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/Akshu.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/Akshu.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/Akshu.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/Akshu.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/Akshu.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/Akshu.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Java_Questions/Akshu.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
