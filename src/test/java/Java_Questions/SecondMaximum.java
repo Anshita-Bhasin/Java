@@ -44,8 +44,7 @@ public class SecondMaximum {
 
         }}
 
-        System.out.printf("array is " + Arrays.toString(values) +"second largest" + values[length-2]);
-
+        System.out.printf("array is " + Arrays.toString(values) +"second largest value is " + values[length-2]);
 
 
         // Write your code here
