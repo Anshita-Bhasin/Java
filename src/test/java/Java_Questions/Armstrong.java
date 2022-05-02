@@ -4,10 +4,10 @@ public class Armstrong {
 
     public static void main(String[] args)
     {
-        int num = 123;
+        int num = 153;
         int number=num;
         int rev=0;
-        int sum=0;
+        int sum;
         while(num!=0)
         {
             sum=num%10;//1
@@ -18,4 +18,9 @@ public class Armstrong {
     }
 
 
-}
+
+
+    }
+
+
+

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -19,11 +22,30 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b39d262e-02e4-4018-baec-4f55bdd20def" name="Default Changelist" comment="" />
+    <list default="true" id="b39d262e-02e4-4018-baec-4f55bdd20def" name="Default Changelist" comment="New Programs - HashMap, LinkedList">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/PrintDigitsWithoutUsingNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/ASCIICharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/ASCIICharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/AddTwoIntegers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/AddTwoIntegers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Java_Questions/Armstrong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Java_Questions/Armstrong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/AddTwoIntegers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/AddTwoIntegers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Java_Questions/SecondMaximum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Java_Questions/SecondMaximum.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -34,6 +56,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="1dinxf0PIrFft0uje76f4KCVy9X" />
   <component name="ProjectViewState">
@@ -47,11 +72,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -59,9 +88,28 @@
       <recent name="Java_Collections" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SecondMaximum">
-    <configuration name="Akshu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.Akshu" />
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Divide">
+    <configuration name="ASCIICharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.ASCIICharacter" />
+      <module name="Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Questions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.Calculator" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +134,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.RS" />
+    <configuration name="CountVowelsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.CountVowelsInString" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -99,21 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseVowelsInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.ReverseVowelsInString" />
-      <module name="Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Java_Questions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SecondMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Questions.SecondMaximum" />
+    <configuration name="Divide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Questions.Divide" />
       <module name="Java" />
       <extension name="coverage">
         <pattern>
@@ -127,14 +162,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SecondMaximum" />
-        <item itemvalue="Application.Akshu" />
-        <item itemvalue="Application.RS" />
+        <item itemvalue="Application.Divide" />
+        <item itemvalue="Application.CountVowelsInString" />
         <item itemvalue="Application.CountDigitsInInteger" />
-        <item itemvalue="Application.ReverseVowelsInString" />
+        <item itemvalue="Application.Calculator" />
+        <item itemvalue="Application.ASCIICharacter" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -153,6 +189,7 @@
       <workItem from="1595617643831" duration="3721000" />
       <workItem from="1596198196872" duration="2232000" />
       <workItem from="1597235833229" duration="600000" />
+      <workItem from="1651417882466" duration="4182000" />
     </task>
     <task id="LOCAL-00001" summary="Added 2 more programs for removing junk values from string and reversing a string.">
       <created>1593117818709</created>
@@ -179,7 +216,7 @@
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -198,72 +235,6 @@
     <MESSAGE value="New Programs - Removing Junk Values, ArrayList using Iterator" />
     <MESSAGE value="New Programs - HashMap, LinkedList" />
     <option name="LAST_COMMIT_MESSAGE" value="New Programs - HashMap, LinkedList" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="380" y="0" width="619" height="728" key="#Hash_Map" timestamp="1594492992852">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="380" y="0" width="619" height="728" key="#Hash_Map/0.0.1366.728@0.0.1366.728" timestamp="1594492992852" />
-    <state x="438" y="66" key="#xdebugger.evaluate" timestamp="1594893160597">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="438" y="66" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1594893160597" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1595267443091">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1595267443091" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1602105377702">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596212996091" />
-    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602105377702" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1602105377702">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1596212996091" />
-    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1602105377702" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1602105377702">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1596212996091" />
-    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1602105377702" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1602105377702">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1323" height="570" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1596212996091" />
-    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1602105377702" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1602105377702">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1323" height="180" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1596212528751" />
-    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1602105377702" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1602105377702">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1323" height="180" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1596212528750" />
-    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1602105377702" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1602105377702">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1323" height="180" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1596212528750" />
-    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1602105377702" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1602105377702">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state width="1323" height="180" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1596212528750" />
-    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1602105377702" />
-    <state x="184" y="8" key="SettingsEditor" timestamp="1595267406455">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1595267406455" />
-    <state x="65" y="0" key="new project wizard" timestamp="1595267488600">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1595267488600" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602101005470">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602101005470" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
